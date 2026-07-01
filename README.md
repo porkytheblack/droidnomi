@@ -8,7 +8,7 @@ loyalty can be bought.
 But simulations are hard things,
 and they take a lot.
 They take perserverance and effort,
-they can't be conjured up by whatever majic wands you hold.
+they can't be conjured up by whatever magic wands you hold.
 We do these things not because they are easy,
 but because they are hard,
 because we are hungry for discovery,
