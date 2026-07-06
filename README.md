@@ -23,3 +23,5 @@ What lays ahead is of a lifetime.
 
 [Full design documentation](./design-notes/design.md)
 
+[8-session teaching curriculum](./curriculum/README.md) — build the droids (with Glove) and the game frontend, one session at a time.
+
