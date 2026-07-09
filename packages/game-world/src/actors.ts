@@ -1,12 +1,12 @@
 
 
-export type GameActorType = "npc" | "non-npc"
+export type GameActorKind = "npc" | "non-npc"
 
 export interface GameActor {
   id: string,
   name: string,
   description: string
-  type: GameActorType
+  kind: GameActorKind
 }
 
 export interface GovernmentNPC extends GameActor {

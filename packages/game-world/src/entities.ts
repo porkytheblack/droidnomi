@@ -1,5 +1,5 @@
 
-type ConsumeFn = () => void
+type ConsumeFn = () => Promise<void>
 
 export interface GameResource {
   id: string
