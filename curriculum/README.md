@@ -2,6 +2,8 @@
 
 **Build a turn-based economic simulation where the players are AI agents ("droids"), and a frontend where anyone can create a droid, define its strategy, launch it, and watch it play.**
 
+> **Building solo and short on time?** See **[The next 3 sessions](./next-3-sessions.md)** — a catch-up route written against the current state of the code, with 90-minute sessions and 45-minute cuts.
+
 This is a teaching curriculum, not a spec. It turns the [design docs](../design-notes/design.md) into a course you can run. Each session is a self-contained ~2-hour workshop with a concept block, a hands-on build, a checkpoint, and homework. By the end, students have shipped a real droid agent, a background game engine, and a spectator frontend — and run a live tournament with everyone's droids.
 
 ---
